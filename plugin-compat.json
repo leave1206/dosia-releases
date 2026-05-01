@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/leave1206/dosia-releases/main/plugin-compat.schema.json",
+  "_doc": "Plugin × DOSIA compatibility table consumed by the upgrade daemon. See README.md §plugin-compat for the schema and how-to-add-version workflow.",
+
+  "feishu": {
+    "1.0.16": { "minDosiaVersion": "0.2.0" },
+    "1.0.17": { "minDosiaVersion": "0.2.0" },
+    "1.0.18": { "minDosiaVersion": "0.2.0" },
+    "1.0.19": { "minDosiaVersion": "0.2.0" },
+    "1.0.20": { "minDosiaVersion": "0.2.0" },
+    "1.0.21": { "minDosiaVersion": "0.2.0" },
+    "1.0.22": { "minDosiaVersion": "0.2.0" },
+    "1.0.23": { "minDosiaVersion": "0.2.0" }
+  }
+}
