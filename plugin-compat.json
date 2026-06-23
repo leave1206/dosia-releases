@@ -11,5 +11,20 @@
     "1.0.21": { "minDosiaVersion": "0.2.0" },
     "1.0.22": { "minDosiaVersion": "0.2.0" },
     "1.0.23": { "minDosiaVersion": "0.2.0" }
+  },
+
+  "dingtalk": {
+    "1.0.28": { "minDosiaVersion": "0.2.0" },
+    "1.0.29": { "minDosiaVersion": "0.2.0" },
+    "1.0.30": { "minDosiaVersion": "0.2.0" },
+    "1.0.31": { "minDosiaVersion": "0.2.0" },
+    "1.0.32": { "minDosiaVersion": "0.2.0" },
+    "1.0.33": { "minDosiaVersion": "0.2.0" },
+    "1.0.34": { "minDosiaVersion": "0.2.0" },
+    "1.0.35": { "minDosiaVersion": "0.2.0" },
+    "1.0.36": { "minDosiaVersion": "0.2.0" },
+    "1.0.37": { "minDosiaVersion": "0.2.0" },
+    "1.0.38": { "minDosiaVersion": "0.2.0" },
+    "1.0.39": { "minDosiaVersion": "0.2.0" }
   }
 }
